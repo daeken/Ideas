@@ -18,12 +18,12 @@ Questions
 Base languages
 ==============
 
- - Python
-  - Pros: Clean, simple
-  - Cons: Would likely require a custom parser
- - Ruby
-  - Pros: Flexible syntax, same language as the compiler
-  - Cons: Instruction definitions could be complicated
- - Scheme
-  - Pros: Complete customization of syntax
-  - Cons: It's Scheme.
+- Python
+	- Pros: Clean, simple
+	- Cons: Would likely require a custom parser
+- Ruby
+	- Pros: Flexible syntax, same language as the compiler
+	- Cons: Instruction definitions could be complicated
+- Scheme
+	- Pros: Complete customization of syntax
+	- Cons: It's Scheme.
