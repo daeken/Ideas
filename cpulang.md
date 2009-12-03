@@ -24,6 +24,6 @@ Base languages
 - Ruby
 	- Pros: Flexible syntax, same language as the compiler
 	- Cons: Instruction definitions could be complicated
-- Scheme
+- S-exp based
 	- Pros: Complete customization of syntax
-	- Cons: It's Scheme.
+	- Cons: Requires a custom parser and could be verbose
